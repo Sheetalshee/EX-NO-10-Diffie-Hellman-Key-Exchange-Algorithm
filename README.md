@@ -57,7 +57,8 @@ int main() {
 
 
 ## Output:
-![Screenshot 2025-04-24 080042](https://github.com/user-attachments/assets/5f016dd3-3e5d-4b43-ad4e-6d0b2df0e215)
+![Screenshot 2025-04-24 080439](https://github.com/user-attachments/assets/857558fa-b7de-4e1f-9e66-12047e69b0ec)
+
 
 
 
